@@ -1,0 +1,6 @@
+[submodule "test"]
+	path = test
+	url = https://github.com/jinxin07/whatsmynametests.git
+[submodule "main"]
+	path = main
+	url = https://github.com/jinxin07/whatsmynamemain.git
